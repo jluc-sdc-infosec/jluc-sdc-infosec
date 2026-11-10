@@ -6,6 +6,11 @@ Hi, im an aspiring SOC analyst. I'm currently building my skills in threat detec
 ## My Objective
 Having grown up around computers and spent three years studying Information Technology and Computer Science, I chose to shift my focus entirely to cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+|  Skill                                            |  Associated Project        |
+|---------------------------------------------------|----------------------------|
+|                              |  Pi-hole                   |
+
+
 <!--
 **jluc-sdc-infosec/jluc-sdc-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
