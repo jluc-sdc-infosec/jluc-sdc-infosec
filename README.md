@@ -8,7 +8,7 @@ Having grown up around computers and spent three years studying Information Tech
 
 |  Skill                                            |  Associated Project        |
 |---------------------------------------------------|----------------------------|
-|                              |  Pi-hole                   |
+|                              |  Pi-hole - DNS Sinkhole                  |
 
 
 <!--
