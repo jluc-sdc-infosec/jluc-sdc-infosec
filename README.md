@@ -8,7 +8,7 @@ Having grown up around computers and spent three years studying Information Tech
 
 |  Skill                                            |  Associated Project        |
 |---------------------------------------------------|----------------------------|
-|                              |  [Pi-hole - DNS Sinkhole](https://github.com/jluc-sdc-infosec/pi-hole-dns-telemetry-analysis)                  |
+|       DNS Log Analysis     |  [Pi-hole - DNS Sinkhole](https://github.com/jluc-sdc-infosec/pi-hole-dns-telemetry-analysis)                  |
 
 
 <!--
