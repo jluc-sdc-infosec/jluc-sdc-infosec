@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://tryhackme.com/p/j.luc.sdc"><img src='https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white'>         <a href="https://www.linkedin.com/in/jydan-luc-dela-cruz-bb162b403/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="20"></a>                        
+<a href="https://tryhackme.com/p/j.luc.sdc"><img src='https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white'></a>         <a href="https://www.linkedin.com/in/jydan-luc-dela-cruz-bb162b403/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="20"></a>                        
 
 
 
