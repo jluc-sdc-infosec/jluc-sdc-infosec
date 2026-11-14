@@ -10,7 +10,7 @@ Blue Team & SOC Tier 1 lab notes: Wazuh SIEM deployment, endpoint log investigat
 |  Skill                                            |  Associated Project        | Tools |
 |---------------------------------------------------|----------------------------|-------|
 |       DNS Log Analysis     |  [Pi-hole - DNS Sinkhole](https://github.com/jluc-sdc-infosec/pi-hole-dns-telemetry-analysis)                  | Pi-hole, VirusTotal |
-| SIEM Log Investigation & Alert Triage| Wazuh SIEM | Wazuh |
+| SIEM Log Investigation & Alert Triage| [Wazuh](https://github.com/jluc-sdc-infosec/wazuh-podman-quadlets) | Wazuh - Podman|
 
 <!--
 **jluc-sdc-infosec/jluc-sdc-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
