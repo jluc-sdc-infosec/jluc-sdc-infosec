@@ -11,7 +11,7 @@ Blue Team & SOC Tier 1 lab notes: Wazuh SIEM deployment, endpoint log investigat
 |---------------------------------------------------|----------------------------|-------|
 |       DNS Log Analysis     |  [Pi-hole - DNS Sinkhole](https://github.com/jluc-sdc-infosec/pi-hole-dns-telemetry-analysis)                  | Pi-hole, VirusTotal |
 | SIEM Deployment & Troubleshooting | [Wazuh](https://github.com/jluc-sdc-infosec/wazuh-podman-quadlets) | Wazuh, Podman, Quadlets|
-| Endpoint Telemetry & Alert Triage (in Progress) | [Windows Atomic Detection Lab]() | Wazuh, Sysmon, Atomic Red Team|
+| Endpoint Telemetry & Alert Triage (in Progress) | [Windows Atomic Detection Lab](https://github.com/jluc-sdc-infosec/windows-atomic-detection/blob/main/README.md#windows-atomic-detection) | Wazuh, Sysmon, Atomic Red Team|
 
 <!--
 **jluc-sdc-infosec/jluc-sdc-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
