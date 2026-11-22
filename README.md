@@ -4,8 +4,10 @@
 
 
 
-Blue Team & SOC Tier 1 lab notes: Wazuh SIEM deployment, endpoint log investigation, alert triage, and DNS traffic analysis with Pi-hole & VirusTotal.
-
+Blue Team & SOC Tier 1 lab notes: 
+- Wazuh SIEM deployment, endpoint log investigation, alert triage.
+- DNS traffic analysis, Proactive OSINT enrichment of external phishing lures (VirusTotal + AbuseIPDB) and wildcard DNS sinkholing via Pi-hole.
+- 
 
 |  Skill                                            |  Associated Project        | Tools |
 |---------------------------------------------------|----------------------------|-------|
